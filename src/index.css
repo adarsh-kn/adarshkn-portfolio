@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@500&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Allura&display=swap'); */
+body {
+  margin: 0;
+  font-family: 'Source Code Pro', sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: linear-gradient(to left, rgb(14, 31, 28), rgb(11, 29, 26));
+}
